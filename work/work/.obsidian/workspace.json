@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "c82e97d753f4ab3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "479400e2006a49d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d9d4e39b09a65b2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6c871835e1574656",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "우테코 지원신청.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32320d156cc2de2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "우테코 지원신청.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9efc807df7125a02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "우테코1번.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b867f2acd557b9f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CODING_FESTIVAL2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "730b692091ff4886",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fea9263b93711ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20544cc134abc26e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "323eb300ac548599",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f94043b279d82b0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9fc399ed8da104b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "16cefc83774cb518",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "240ad9b436f4b7a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CODING_FESTIVAL2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6aa2554685fbc55e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CODING_FESTIVAL2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "640a0c81f0d7a714",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "40f4456757618512",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CODING_FESTIVAL2.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "20544cc134abc26e",
+  "lastOpenFiles": [
+    "CODING_FESTIVAL.md",
+    "CODING_FESTIVAL2 - 복사본.md",
+    "CODING_FESTIVAL2.md",
+    "CODING_FESTIVAL2 1.md",
+    "우테코1번.md",
+    "우테코 지원신청.md",
+    "elice_test.md",
+    "attached_file"
+  ]
+}
