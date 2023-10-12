@@ -62,9 +62,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "30f280a992cccfc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "스프링 백업.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ee0c1d7dc2c8279",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coding_festival3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -130,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING_FESTIVAL2.md",
+                "file": "coding_festival3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING_FESTIVAL2.md",
+                "file": "coding_festival3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODING_FESTIVAL2.md"
+                "file": "coding_festival3.md"
               }
             }
           }
@@ -191,8 +215,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20544cc134abc26e",
+  "active": "5ee0c1d7dc2c8279",
   "lastOpenFiles": [
+    "스프링 백업.md",
+    "coding_festival3.md",
     "CODING_FESTIVAL.md",
     "CODING_FESTIVAL2 - 복사본.md",
     "CODING_FESTIVAL2.md",
