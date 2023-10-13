@@ -26,9 +26,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e35ddf9605aa700d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. 효과적인 학습 방식과 경험 (1000자 이내).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21593505fda09e3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. 성장 중 겪은 실패와 극복 (1000자 이내).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b00fa0225665f174",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. 오랜 시간 몰입했던 경험 그리고 도전 (1000자 이내).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18096becbd0e4ccb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. 원하는 프로그래머 모습 (1000자 이내).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45b767a1f0788134",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. 원하는 프로그래머 모습 (1000자 이내).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -94,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "자기소개서.md",
+                "file": "5. 원하는 프로그래머 모습 (1000자 이내).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "자기소개서.md",
+                "file": "5. 원하는 프로그래머 모습 (1000자 이내).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "자기소개서.md"
+                "file": "5. 원하는 프로그래머 모습 (1000자 이내).md"
               }
             }
           }
@@ -155,8 +215,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4a00eda9ddb00c1",
+  "active": "45b767a1f0788134",
   "lastOpenFiles": [
-    "자기소개서.md"
+    "4. 오랜 시간 몰입했던 경험 그리고 도전 (1000자 이내).md",
+    "2. 효과적인 학습 방식과 경험 (1000자 이내).md",
+    "3. 성장 중 겪은 실패와 극복 (1000자 이내).md",
+    "5. 원하는 프로그래머 모습 (1000자 이내).md",
+    "자기소개서.md",
+    "Untitled.md"
   ]
 }

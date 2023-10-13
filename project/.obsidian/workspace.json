@@ -1,76 +1,60 @@
 {
   "main": {
-    "id": "92d813749ed32a14",
+    "id": "d222d99d8fc9adaf",
     "type": "split",
     "children": [
       {
-        "id": "c9f3f2dc01cd0fbe",
+        "id": "cf7024d0fd0c4dda",
         "type": "tabs",
         "children": [
           {
-            "id": "9b39403bb6cd361f",
+            "id": "6ee238169ee16c2a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee5b1f0f0b60641d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "사용자 정보 관련 파일.md",
+                "file": "비속어 프로젝트.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ecde796b9507143d",
+            "id": "ef7ab31edefb1108",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "사용자 정보 관련 명령어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b57c063823598d3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "사용자 정보 관련 명령어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1bdebfaa1fae5035",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "파일시스템/디스크쿼터.md",
+                "file": "비속어 프로젝트.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "746b78fdbf57662d",
+    "id": "2600fdc7f0f7772a",
     "type": "split",
     "children": [
       {
-        "id": "4ccdf223cad1bf2e",
+        "id": "c9fb30c1678423ed",
         "type": "tabs",
         "children": [
           {
-            "id": "b121d4465af87f1d",
+            "id": "02cc51d27c4cd846",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,7 +64,7 @@
             }
           },
           {
-            "id": "142a581db3cf6923",
+            "id": "0aff4358b4da96d4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -95,7 +79,7 @@
             }
           },
           {
-            "id": "08dd9213f8c6fcd5",
+            "id": "e6d58a7e774565af",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -109,20 +93,20 @@
     "width": 300
   },
   "right": {
-    "id": "a6baea6900def82f",
+    "id": "aa5189d71198f876",
     "type": "split",
     "children": [
       {
-        "id": "78a359eb5858fdfe",
+        "id": "178eddb1559a941c",
         "type": "tabs",
         "children": [
           {
-            "id": "93b9b2d2ea2c5450",
+            "id": "2853e5779ccb1e2a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "파일시스템/디스크쿼터.md",
+                "file": "비속어 프로젝트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,19 +118,19 @@
             }
           },
           {
-            "id": "2da984b82d3d8c0a",
+            "id": "a1b911c6d08d7cbb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "파일시스템/디스크쿼터.md",
+                "file": "비속어 프로젝트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "92940e548af43a4c",
+            "id": "a5e3ee5fabe1c72f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,12 +141,12 @@
             }
           },
           {
-            "id": "fde8c944e5218fc9",
+            "id": "be5b934806040a73",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "파일시스템/디스크쿼터.md"
+                "file": "비속어 프로젝트.md"
               }
             }
           }
@@ -183,20 +167,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1bdebfaa1fae5035",
+  "active": "ef7ab31edefb1108",
   "lastOpenFiles": [
-    "파일시스템/파일시스템 생성의 개요.md",
-    "파일시스템/디스크쿼터.md",
-    "attatched_files/Pasted image 20231011215335.png",
-    "교재 인덱싱.md",
-    "2023-10-11.md",
-    "파일시스템",
-    "사용자 정보 관련 파일.md",
-    "사용자 정보 관련 명령어.md",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제.md",
-    "Untitled.canvas",
-    "attatched_files/Pasted image 20231011211411.png",
-    "문제",
-    "attatched_files"
+    "Untitled.md",
+    "비속어 프로젝트.md",
+    "attached_files/KakaoTalk_20231013_095421828.png",
+    "attached_files/KakaoTalk_20231013_095409697.png",
+    "attached_files/KakaoTalk_20231013_095359807.png",
+    "attached_files/KakaoTalk_20231013_095350545.png",
+    "attached_files/KakaoTalk_20231013_095340259.png",
+    "attached_files/KakaoTalk_20231005_173826498 1.png",
+    "attached_files/KakaoTalk_20231005_173819717 2.png",
+    "attached_files/KakaoTalk_20231005_173819717 1.png",
+    "attached_files/KakaoTalk_20231005_173811572 1.png",
+    "attached_files/KakaoTalk_20231005_173802895 1.png",
+    "attached_files"
   ]
 }

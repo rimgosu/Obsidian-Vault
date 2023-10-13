@@ -86,9 +86,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "46e04d9da931fbec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "java backup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a0ebc376cd9b97d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CODING_FESTIVAL2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf15fdc86b005d52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CODING_FESTIVAL4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -154,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding_festival3.md",
+                "file": "CODING_FESTIVAL4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding_festival3.md",
+                "file": "CODING_FESTIVAL4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding_festival3.md"
+                "file": "CODING_FESTIVAL4.md"
               }
             }
           }
@@ -215,14 +251,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ee0c1d7dc2c8279",
+  "active": "cf15fdc86b005d52",
   "lastOpenFiles": [
-    "스프링 백업.md",
     "coding_festival3.md",
-    "CODING_FESTIVAL.md",
-    "CODING_FESTIVAL2 - 복사본.md",
+    "CODING_FESTIVAL4.md",
     "CODING_FESTIVAL2.md",
-    "CODING_FESTIVAL2 1.md",
+    "CODING_FESTIVAL.md",
+    "Untitled.md",
+    "attached_file/Pasted image 20231013153034.png",
+    "project-21문서 정리.md",
+    "java backup.md",
+    "스프링 백업.md",
+    "CODING_FESTIVAL2 - 복사본.md",
     "우테코1번.md",
     "우테코 지원신청.md",
     "elice_test.md",

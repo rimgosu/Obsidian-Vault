@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코딩 페스티벌 공유.md",
+                "file": "취업.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코딩 페스티벌 공유.md",
+                "file": "취업.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코딩 페스티벌 공유.md",
+                "file": "취업.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코딩 페스티벌 공유.md"
+                "file": "취업.md"
               }
             }
           }
@@ -269,18 +269,20 @@
   },
   "active": "9d3cf8fbdab7a0d2",
   "lastOpenFiles": [
-    "취업.md",
-    "Attatched File/스크린샷 2023-09-08 160758.png",
-    "코딩 페스티벌 공유.md",
-    "시험.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "조금 다른점.md",
-    "EDA2.md",
     "준영.md",
-    "EDA_Target.md",
-    "Attatched File/Pasted image 20230925214102.png",
+    "취업.md",
+    "코딩 페스티벌 공유.md",
     "EDA.md",
+    "EDA_Target.md",
+    "EDA2.md",
+    "SpringStudy.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "삭제해도 될 것 같은 컬럼.md",
+    "Attatched File/스크린샷 2023-09-08 160758.png",
+    "시험.md",
+    "조금 다른점.md",
+    "Attatched File/Pasted image 20230925214102.png",
     "Attatched File/Pasted image 20230925214012.png",
     "Attatched File/Pasted image 20230925214005.png",
     "Attatched File/Pasted image 20230925213823.png",
@@ -290,10 +292,8 @@
     "Attatched File/Pasted image 20230925213506.png",
     "Attatched File/Pasted image 20230925213501.png",
     "Attatched File",
-    "삭제해도 될 것 같은 컬럼.md",
     "빅분기 개념 정리.md",
     "빅분기 문제 정리.md",
-    "깃허브 백업.md",
-    "SpringStudy.md"
+    "깃허브 백업.md"
   ]
 }
