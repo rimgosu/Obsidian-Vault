@@ -4,5 +4,14 @@
       "modifiers": [],
       "key": "F8"
     }
+  ],
+  "file-explorer:duplicate-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
   ]
 }

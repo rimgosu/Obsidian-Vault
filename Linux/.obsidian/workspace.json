@@ -8,115 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9b39403bb6cd361f",
+            "id": "c54e8bd89e42bb46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "user/사용자 정보 관련 파일.md",
+                "file": "문제/제1801회 리눅스마스터 1급 2차 기출문제/10번.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ecde796b9507143d",
+            "id": "e885aa97cdc2d532",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "user/사용자 정보 관련 명령어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b57c063823598d3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "user/사용자 정보 관련 명령어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1bdebfaa1fae5035",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "탐색/탐색의 기본.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "012becbc544e4cd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "탐색/rpm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9dff7d059d7b85a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "모듈 의존성.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b5ba71c7c8d6343",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프린터.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "283a2adcd94a1d8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "로그/로그 개요.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bb13b665bed0f84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "로그/로그인 명령어.md",
+                "file": "파일시스템/rsync.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 302.5
   },
   "right": {
     "id": "a6baea6900def82f",
@@ -182,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "로그/로그인 명령어.md",
+                "file": "파일시스템/rsync.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "로그/로그인 명령어.md",
+                "file": "파일시스템/rsync.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "로그/로그인 명령어.md"
+                "file": "파일시스템/rsync.md"
               }
             }
           }
@@ -243,33 +159,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bb13b665bed0f84",
+  "active": "e885aa97cdc2d532",
   "lastOpenFiles": [
-    "파일시스템/디스크쿼터.md",
-    "Untitled.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/10번.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/9번.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/8번.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/제1801회 리눅스마스터 1급 2차 기출문제.md",
+    "파일시스템/rsync.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/11번.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/12번.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/16번.md",
     "파일시스템/파일시스템 생성의 개요.md",
-    "탐색/rpm.md",
-    "탐색/탐색의 기본.md",
-    "로그/시스템로그.md",
+    "sysctl.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/7번.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/14번.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/15번.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/13번.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/6번.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/5번.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/4번.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/3번.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/2번.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/1번.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/1번 1.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/1번 1 1.md",
+    "Untitled.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제",
+    "탐색/compgen.md",
     "로그/rsyslog.md",
-    "프로세스/ps.md",
+    "sysctl",
+    "로그/로그 명령어.md",
     "Pasted image 20231013214720.png",
-    "교재 인덱싱.md",
-    "모듈 의존성.md",
-    "로그/로그인 명령어.md",
-    "로그/로그 개요.md",
-    "프린터.md",
     "로그",
     "__attatched_files__/Pasted image 20231013202718.png",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제.md",
     "__attatched_files__/Pasted image 20231013201221.png",
     "Untitled.canvas",
-    "user/사용자 정보 관련 명령어.md",
-    "2023-10-11.md",
     "user",
-    "프로세스/우선순위변경.md",
     "탐색",
-    "user/사용자 정보 관련 파일.md",
     "프로세스",
     "__attatched_files__/Pasted image 20231011211411.png",
     "__attatched_files__/Pasted image 20231011215335.png",

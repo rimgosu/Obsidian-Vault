@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "이성추천프로젝트/이성추천 원본TXT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "이성추천프로젝트/이성추천 원본TXT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "이성추천프로젝트/이성추천 원본TXT.md"
               }
             }
           }
@@ -144,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02cc51d27c4cd846",
+  "active": "1635b8e4a1253cdf",
   "lastOpenFiles": [
-    "이성추천프로젝트/이성추천 원본TXT.md",
-    "Untitled.md",
     "이성추천프로젝트/이성추천 원본PNG.md",
+    "Untitled.md",
+    "이성추천프로젝트/이성추천 원본TXT.md",
     "attached_files/KakaoTalk_20231005_173819717.png",
     "attached_files/KakaoTalk_20231005_173811572.png",
     "attached_files/KakaoTalk_20231005_173802895.png",
