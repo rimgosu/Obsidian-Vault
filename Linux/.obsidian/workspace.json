@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "사용자 정보 관련 파일.md",
+                "file": "user/사용자 정보 관련 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "사용자 정보 관련 명령어.md",
+                "file": "user/사용자 정보 관련 명령어.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "사용자 정보 관련 명령어.md",
+                "file": "user/사용자 정보 관련 명령어.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "파일시스템/디스크쿼터.md",
+                "file": "탐색/탐색의 기본.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "012becbc544e4cd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "탐색/rpm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9dff7d059d7b85a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "모듈 의존성.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b5ba71c7c8d6343",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프린터.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "283a2adcd94a1d8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "로그/로그 개요.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bb13b665bed0f84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "로그/로그인 명령어.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -122,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "파일시스템/디스크쿼터.md",
+                "file": "로그/로그인 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "파일시스템/디스크쿼터.md",
+                "file": "로그/로그인 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "파일시스템/디스크쿼터.md"
+                "file": "로그/로그인 명령어.md"
               }
             }
           }
@@ -183,20 +243,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1bdebfaa1fae5035",
+  "active": "8bb13b665bed0f84",
   "lastOpenFiles": [
-    "파일시스템/파일시스템 생성의 개요.md",
     "파일시스템/디스크쿼터.md",
-    "attatched_files/Pasted image 20231011215335.png",
+    "Untitled.md",
+    "파일시스템/파일시스템 생성의 개요.md",
+    "탐색/rpm.md",
+    "탐색/탐색의 기본.md",
+    "로그/시스템로그.md",
+    "로그/rsyslog.md",
+    "프로세스/ps.md",
+    "Pasted image 20231013214720.png",
     "교재 인덱싱.md",
-    "2023-10-11.md",
-    "파일시스템",
-    "사용자 정보 관련 파일.md",
-    "사용자 정보 관련 명령어.md",
+    "모듈 의존성.md",
+    "로그/로그인 명령어.md",
+    "로그/로그 개요.md",
+    "프린터.md",
+    "로그",
+    "__attatched_files__/Pasted image 20231013202718.png",
     "문제/제1801회 리눅스마스터 1급 2차 기출문제.md",
+    "__attatched_files__/Pasted image 20231013201221.png",
     "Untitled.canvas",
-    "attatched_files/Pasted image 20231011211411.png",
+    "user/사용자 정보 관련 명령어.md",
+    "2023-10-11.md",
+    "user",
+    "프로세스/우선순위변경.md",
+    "탐색",
+    "user/사용자 정보 관련 파일.md",
+    "프로세스",
+    "__attatched_files__/Pasted image 20231011211411.png",
+    "__attatched_files__/Pasted image 20231011215335.png",
+    "파일시스템",
     "문제",
-    "attatched_files"
+    "__attatched_files__"
   ]
 }

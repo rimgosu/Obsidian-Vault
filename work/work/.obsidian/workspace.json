@@ -122,9 +122,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c035a3dc526a304c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CODING_FESTIVAL4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf090bbc6b87719d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b27cb392b715778",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "213e682b925ddcf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -190,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODING_FESTIVAL4.md",
+                "file": "Untitled 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODING_FESTIVAL4.md",
+                "file": "Untitled 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODING_FESTIVAL4.md"
+                "file": "Untitled 3.md"
               }
             }
           }
@@ -251,15 +299,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf15fdc86b005d52",
+  "active": "213e682b925ddcf5",
   "lastOpenFiles": [
-    "coding_festival3.md",
+    "Untitled 2.md",
+    "Untitled 3.md",
+    "[.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "project-21문서 정리.md",
+    "CODING_FESTIVAL5.md",
     "CODING_FESTIVAL4.md",
+    "coding_festival3.md",
     "CODING_FESTIVAL2.md",
     "CODING_FESTIVAL.md",
-    "Untitled.md",
     "attached_file/Pasted image 20231013153034.png",
-    "project-21문서 정리.md",
     "java backup.md",
     "스프링 백업.md",
     "CODING_FESTIVAL2 - 복사본.md",

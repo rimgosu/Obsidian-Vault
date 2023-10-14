@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ee238169ee16c2a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ee5b1f0f0b60641d",
+            "id": "1635b8e4a1253cdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "비속어 프로젝트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef7ab31edefb1108",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "비속어 프로젝트.md",
-                "mode": "source",
+                "file": "이성추천프로젝트/이성추천 원본TXT.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "비속어 프로젝트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "비속어 프로젝트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "비속어 프로젝트.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -167,20 +144,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef7ab31edefb1108",
+  "active": "02cc51d27c4cd846",
   "lastOpenFiles": [
+    "이성추천프로젝트/이성추천 원본TXT.md",
     "Untitled.md",
-    "비속어 프로젝트.md",
+    "이성추천프로젝트/이성추천 원본PNG.md",
+    "attached_files/KakaoTalk_20231005_173819717.png",
+    "attached_files/KakaoTalk_20231005_173811572.png",
+    "attached_files/KakaoTalk_20231005_173802895.png",
+    "attached_files/KakaoTalk_20231005_173752897.png",
+    "attached_files/KakaoTalk_20231005_173826498.png",
+    "비속어프로젝트/비속어 프로젝트.md",
+    "비속어프로젝트/비속어 프로젝트2.md",
+    "이성추천프로젝트",
+    "비속어프로젝트/비속어 프로젝트3.md",
+    "비속어프로젝트",
     "attached_files/KakaoTalk_20231013_095421828.png",
     "attached_files/KakaoTalk_20231013_095409697.png",
     "attached_files/KakaoTalk_20231013_095359807.png",
     "attached_files/KakaoTalk_20231013_095350545.png",
     "attached_files/KakaoTalk_20231013_095340259.png",
-    "attached_files/KakaoTalk_20231005_173826498 1.png",
-    "attached_files/KakaoTalk_20231005_173819717 2.png",
-    "attached_files/KakaoTalk_20231005_173819717 1.png",
-    "attached_files/KakaoTalk_20231005_173811572 1.png",
-    "attached_files/KakaoTalk_20231005_173802895 1.png",
     "attached_files"
   ]
 }
