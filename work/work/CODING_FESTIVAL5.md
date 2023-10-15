@@ -34,22 +34,20 @@ def find_relation_index(s1, s2):
     dp = [[0] * (n + 1) for _ in range(m + 1)]
     longest_length = 0
 
-
     # Fill the DP table and find the maximum length
     for i in range(m + 1):
         for j in range(n + 1):
-            print(dp)
             if i == 0 or j == 0:
                 dp[i][j] = 0
             elif s1[i - 1] == s2[j - 1]:
                 dp[i][j] = dp[i - 1][j - 1] + 1
                 longest_length = max(longest_length, dp[i][j])
-    
+
     return m + n - (2 * longest_length)
 
 m = input().strip()
 n = input().strip()
-print(find_relation_index(m,n))  
+print(find_relation_index(m,n))    
 ```
 
 
