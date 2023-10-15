@@ -49,3 +49,9 @@ type ls
 ```
 
 ![[Pasted image 20231013201221.png]]
+
+
+# grep
+- cat 파일 | grep 문자열
+- -i 속성으로 대소문자 구별을 할 수 있음.
+- cat 경로/httpd.conf | grep -i name

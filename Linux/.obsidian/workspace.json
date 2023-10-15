@@ -25,14 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "메일/sendmail 주요 설정 파일 개요.md",
+                "file": "메일/access.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "343ae2492ac0b44b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "메일/virtusertable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "deac9f4789be7373",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문제/제1801회 리눅스마스터 1급 2차 기출문제/11번.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0caf9c2bca30bcef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "파일관련서비스/삼바(SAMBA).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -82,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 200
   },
   "right": {
     "id": "a6baea6900def82f",
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "메일/sendmail 주요 설정 파일 개요.md",
+                "file": "파일관련서비스/삼바(SAMBA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "메일/sendmail 주요 설정 파일 개요.md",
+                "file": "파일관련서비스/삼바(SAMBA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "메일/sendmail 주요 설정 파일 개요.md"
+                "file": "파일관련서비스/삼바(SAMBA).md"
               }
             }
           }
@@ -159,36 +195,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e885aa97cdc2d532",
+  "active": "0caf9c2bca30bcef",
   "lastOpenFiles": [
-    "메일/메일 관련 서비스 개요.md",
-    "__교재인덱싱__/교재 인덱싱.md",
-    "메일/sendmail 주요 설정 파일 개요.md",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제/제1801회 리눅스마스터 1급 2차 기출문제.md",
+    "Untitled.md",
+    "파일관련서비스/삼바(SAMBA).md",
+    "파일관련서비스",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/13번.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/12번.md",
     "문제/제1801회 리눅스마스터 1급 2차 기출문제/11번.md",
+    "탐색/find&which&type&grep.md",
+    "탐색/compgen.md",
+    "탐색/rpm.md",
+    "웹 설정/httpd.conf.md",
+    "__교재인덱싱__/교재 인덱싱.md",
+    "메일/메일 관련 서비스 개요.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/제1801회 리눅스마스터 1급 2차 기출문제.md",
+    "웹 설정",
+    "메일/aliases.md",
+    "메일/virtusertable.md",
+    "메일/sendmail 주요 설정 파일 개요.md",
+    "메일/access.md",
     "문제/제1801회 리눅스마스터 1급 2차 기출문제/10번.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/09번.md",
+    "메일/local-host-names.md",
+    "메일/명령어의 차이점.md",
     "__교재인덱싱__",
     "메일",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제/09번.md",
     "문제/제1801회 리눅스마스터 1급 2차 기출문제/08번.md",
     "문제/제1801회 리눅스마스터 1급 2차 기출문제/07번.md",
     "문제/제1801회 리눅스마스터 1급 2차 기출문제/06번.md",
     "문제/제1801회 리눅스마스터 1급 2차 기출문제/05번.md",
     "문제/제1801회 리눅스마스터 1급 2차 기출문제/04번.md",
     "문제/제1801회 리눅스마스터 1급 2차 기출문제/03번.md",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제/02번.md",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제/01번.md",
-    "파일시스템/rsync.md",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제/12번.md",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제/16번.md",
-    "파일시스템/파일시스템 생성의 개요.md",
-    "sysctl.md",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제/14번.md",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제/15번.md",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제/13번.md",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제/1번 1.md",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제/1번 1 1.md",
-    "Untitled.md",
     "문제/제1801회 리눅스마스터 1급 2차 기출문제",
     "sysctl",
     "Pasted image 20231013214720.png",
@@ -200,8 +238,6 @@
     "탐색",
     "프로세스",
     "__attatched_files__/Pasted image 20231011211411.png",
-    "__attatched_files__/Pasted image 20231011215335.png",
-    "파일시스템",
-    "문제"
+    "__attatched_files__/Pasted image 20231011215335.png"
   ]
 }
