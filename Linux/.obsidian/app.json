@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "attatched_files",
+  "attachmentFolderPath": "__attatched_files__",
   "alwaysUpdateLinks": true,
   "promptDelete": false
 }

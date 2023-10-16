@@ -4,16 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "5d9008be8deb5d0d",
+        "id": "4518bd5f07d0d7b7",
         "type": "tabs",
         "children": [
           {
-            "id": "a9d93a881541cbc2",
+            "id": "023f05e89dd3c5f9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 05 make.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f22b986640c53873",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__교재인덱싱__/교재 인덱싱.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f5b5c0ec1f547409",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "계정/사용자 정보 관련 명령어.md",
+                "file": "문제/제1802회 리눅스마스터 1급 2차 기출문제/__제1802회 리눅스마스터 1급 2차 기출문제__.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "계정/사용자 정보 관련 명령어.md",
+                "file": "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 05 make.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "계정/사용자 정보 관련 명령어.md",
+                "file": "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 05 make.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "계정/사용자 정보 관련 명령어.md"
+                "file": "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 05 make.md"
               }
             }
           }
@@ -146,12 +174,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9d93a881541cbc2",
+  "active": "023f05e89dd3c5f9",
   "lastOpenFiles": [
+    "__교재인덱싱__/교재 인덱싱.md",
+    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 05 make.md",
+    "문제/제1802회 리눅스마스터 1급 2차 기출문제/__제1802회 리눅스마스터 1급 2차 기출문제__.md",
+    "yum.md",
+    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 04 yum.md",
+    "__attatched_files__/Pasted image 20231016213841.png",
+    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 03 ps.md",
+    "__교재인덱싱__/Default Settings.md",
+    "프로세스/kill& killall &pkill.md",
+    "프로세스/ps.md",
+    "__attatched_files__/Pasted image 20231016212007.png",
+    "__attatched_files__/Pasted image 20231016211954.png",
+    "__attatched_files__/Pasted image 20231016211952.png",
+    "__attatched_files__/Pasted image 20231016211931.png",
+    "__attatched_files__/Pasted image 20231016211925.png",
+    "__attatched_files__/Pasted image 20231016211905.png",
+    "__attatched_files__/Pasted image 20231016211802.png",
+    "프로세스/pgrep.md",
+    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 02 DD, SWAP.md",
+    "파일시스템/dd.md",
+    "__attatched_files__/Pasted image 20231013214720.png",
+    "__attatched_files__/Pasted image 20231016191854.png",
+    "__교재인덱싱__/Linux Tips.md",
+    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 01 UID.md",
     "계정/사용자 정보 관련 파일.md",
     "계정/사용자 정보 관련 명령어.md",
-    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 01 UID.md",
-    "문제/제1802회 리눅스마스터 1급 2차 기출문제/__제1802회 리눅스마스터 1급 2차 기출문제__.md",
+    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 07 log, last.md",
     "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 16 DHCP.md",
     "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 15 mail.md",
     "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 14 iptables.md",
@@ -161,20 +212,7 @@
     "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 10 cpio.md",
     "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 09 접근제어.md",
     "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 08 logrotate.md",
-    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 07 log, last.md",
-    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 06 디스크관련정보확인.md",
-    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 05 make.md",
-    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 04 yum.md",
-    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 03 ps.md",
-    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 02 DD, SWAP.md",
-    "Untitled.md",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제/16번.md",
-    "squid.md",
     "문제/제1802회 리눅스마스터 1급 2차 기출문제",
-    "__교재인덱싱__/Default Settings.md",
-    "iptables.md",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제/15번.md",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제/14번.md",
     "도메인서비스",
     "파일관련서비스",
     "웹 설정",
@@ -182,13 +220,8 @@
     "메일",
     "문제/제1801회 리눅스마스터 1급 2차 기출문제",
     "sysctl",
-    "Pasted image 20231013214720.png",
     "로그",
-    "__attatched_files__/Pasted image 20231013202718.png",
-    "__attatched_files__/Pasted image 20231013201221.png",
     "Untitled.canvas",
-    "계정",
-    "__attatched_files__/Pasted image 20231011211411.png",
-    "__attatched_files__/Pasted image 20231011215335.png"
+    "계정"
   ]
 }

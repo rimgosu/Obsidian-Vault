@@ -1,5 +1,18 @@
 [[우선순위변경]]
 
+# [[pgrep]]과의 차이
+- pgrep은 딱 pid만 보여주는 반면,
+- ps는 자세한 정보를 출력한다.
+
+```
+pgrep -u ihduser
+```
+![[Pasted image 20231016212007.png]]
+
+```
+ps -u ihduser
+```
+![[Pasted image 20231016211954.png]]
 
 ### ps aux
 - 전체 프로세스 확인

@@ -1,3 +1,4 @@
+- 설정-절전-안함
 
 ### Apache Settings [[httpd.conf]]
 ### Samba Settings [[삼바(SAMBA)]]
