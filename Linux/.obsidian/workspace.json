@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c9f3f2dc01cd0fbe",
+        "id": "5d9008be8deb5d0d",
         "type": "tabs",
         "children": [
           {
-            "id": "c54e8bd89e42bb46",
+            "id": "a9d93a881541cbc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문제/제1801회 리눅스마스터 1급 2차 기출문제/10번.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e885aa97cdc2d532",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "메일/access.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "343ae2492ac0b44b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "메일/virtusertable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "deac9f4789be7373",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "문제/제1801회 리눅스마스터 1급 2차 기출문제/11번.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0caf9c2bca30bcef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "파일관련서비스/삼바(SAMBA).md",
+                "file": "계정/사용자 정보 관련 명령어.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "파일관련서비스/삼바(SAMBA).md",
+                "file": "계정/사용자 정보 관련 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "파일관련서비스/삼바(SAMBA).md",
+                "file": "계정/사용자 정보 관련 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "파일관련서비스/삼바(SAMBA).md"
+                "file": "계정/사용자 정보 관련 명령어.md"
               }
             }
           }
@@ -195,38 +146,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0caf9c2bca30bcef",
+  "active": "a9d93a881541cbc2",
   "lastOpenFiles": [
+    "계정/사용자 정보 관련 파일.md",
+    "계정/사용자 정보 관련 명령어.md",
+    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 01 UID.md",
+    "문제/제1802회 리눅스마스터 1급 2차 기출문제/__제1802회 리눅스마스터 1급 2차 기출문제__.md",
+    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 16 DHCP.md",
+    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 15 mail.md",
+    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 14 iptables.md",
+    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 13 vsftp서버.md",
+    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 12 NIS 도메인.md",
+    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 11 apache.md",
+    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 10 cpio.md",
+    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 09 접근제어.md",
+    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 08 logrotate.md",
+    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 07 log, last.md",
+    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 06 디스크관련정보확인.md",
+    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 05 make.md",
+    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 04 yum.md",
+    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 03 ps.md",
+    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 02 DD, SWAP.md",
     "Untitled.md",
-    "파일관련서비스/삼바(SAMBA).md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/16번.md",
+    "squid.md",
+    "문제/제1802회 리눅스마스터 1급 2차 기출문제",
+    "__교재인덱싱__/Default Settings.md",
+    "iptables.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/15번.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/14번.md",
+    "도메인서비스",
     "파일관련서비스",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제/13번.md",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제/12번.md",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제/11번.md",
-    "탐색/find&which&type&grep.md",
-    "탐색/compgen.md",
-    "탐색/rpm.md",
-    "웹 설정/httpd.conf.md",
-    "__교재인덱싱__/교재 인덱싱.md",
-    "메일/메일 관련 서비스 개요.md",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제/제1801회 리눅스마스터 1급 2차 기출문제.md",
     "웹 설정",
-    "메일/aliases.md",
-    "메일/virtusertable.md",
-    "메일/sendmail 주요 설정 파일 개요.md",
-    "메일/access.md",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제/10번.md",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제/09번.md",
-    "메일/local-host-names.md",
-    "메일/명령어의 차이점.md",
     "__교재인덱싱__",
     "메일",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제/08번.md",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제/07번.md",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제/06번.md",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제/05번.md",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제/04번.md",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제/03번.md",
     "문제/제1801회 리눅스마스터 1급 2차 기출문제",
     "sysctl",
     "Pasted image 20231013214720.png",
@@ -234,9 +187,7 @@
     "__attatched_files__/Pasted image 20231013202718.png",
     "__attatched_files__/Pasted image 20231013201221.png",
     "Untitled.canvas",
-    "user",
-    "탐색",
-    "프로세스",
+    "계정",
     "__attatched_files__/Pasted image 20231011211411.png",
     "__attatched_files__/Pasted image 20231011215335.png"
   ]
