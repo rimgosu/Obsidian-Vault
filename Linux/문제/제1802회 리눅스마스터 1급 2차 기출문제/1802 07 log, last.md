@@ -10,4 +10,31 @@
 - ①과 ②번은 관련 파일명을 절대 경로로 기재한다.  
 - ③번은 해당 로그 파일의 정보를 일반 사용자들이 볼 수 없도록 허가권 및 소유권을 지정한다. 조건과 관련된 내용 한 줄만을 기재한다.  
 
-정답
+## 정답
+1. vi /etc/logrotate.conf
+2. /var/log/wtmp
+3. create 0660 root utmp
+
+--- 
+![[Pasted image 20231017174152.png]]
+
+`last` 명령어로 참조되는 로그 파일은 일반적으로 `/var/log/wtmp` 또는 `/var/log/utmp` 파일이며, 이를 로테이션 하기 위한 설정은 보통 `/etc/logrotate.conf` 파일 또는 `/etc/logrotate.d/` 디렉토리 내의 별도의 설정 파일로 관리됩니다.
+
+이를 고려하여 다음과 같이 채워 넣을 수 있습니다.
+
+```
+# vi /etc/logrotate.d/wtmp
+/var/log/wtmp {
+    create 0660 root utmp
+}
+```
+
+- ① : `/etc/logrotate.d/wtmp` (새로운 로테이션 설정 파일 생성)
+- ② : `/var/log/wtmp` (last 명령어가 참조하는 로그 파일의 절대 경로)
+- ③ : `create 0660 root utmp` (허가권 및 소유권 지정. 일반 사용자는 볼 수 없도록 설정)
+
+이 설정은 `/var/log/wtmp` 파일이 로테이션될 때, `root` 사용자와 `utmp` 그룹이 소유하며, 허가권을 `0660`으로 설정하도록 합니다. 이렇게 하면 일반 사용자들은 이 파일을 볼 수 없습니다.
+
+
+  
+주의: 이는 예시로, 실제 시스템 설정에 따라 다를 수 있습니다.
