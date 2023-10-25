@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "dd6b3d407d01bc5e",
+            "id": "b77c3fef01eb3acf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 09 접근제어.md",
+                "file": "231024.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,38 +36,12 @@
             }
           },
           {
-            "id": "3265a9e393244b22",
+            "id": "391cbbd4b7e1172b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sshd.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b27c8b80b82eabd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 10 cpio.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0fbd9200acbd792",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apache/httpd.md",
+                "file": "231025.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "last",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apache/httpd.md",
+                "file": "231025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apache/httpd.md",
+                "file": "231025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apache/httpd.md"
+                "file": "231025.md"
               }
             }
           }
@@ -202,46 +176,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0fbd9200acbd792",
+  "active": "391cbbd4b7e1172b",
   "lastOpenFiles": [
-    "Apache/httpd.conf.md",
+    "__교재인덱싱__/교재 인덱싱.md",
+    "231024.md",
+    "231025.md",
+    "__attatched_files__/Pasted image 20231025133907.png",
+    "__attatched_files__/Pasted image 20231025133444.png",
+    "__attatched_files__/Pasted image 20231024211816.png",
+    "__attatched_files__/Pasted image 20231024211742.png",
+    "모듈 의존성.md",
+    "1802 05 make.md",
+    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 09 접근제어.md",
+    "sshd.md",
+    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 10 cpio.md",
+    "make.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/09번.md",
+    "sysctl/sysctl.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/15번.md",
+    "iptables.md",
+    "문제/제1802회 리눅스마스터 1급 2차 기출문제/__제1802회 리눅스마스터 1급 2차 기출문제__.md",
+    "로그/rsyslog.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/07번.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/제1801회 리눅스마스터 1급 2차 기출문제.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/01번.md",
     "Apache/httpd.md",
+    "Apache/httpd.conf.md",
     "Apache/Untitled",
     "Apache/Apache 실행파일목록.md",
     "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 11 apache.md",
-    "__교재인덱싱__/교재 인덱싱.md",
     "__교재인덱싱__/Default Settings.md",
-    "모듈 의존성.md",
     "cpio.md",
-    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 10 cpio.md",
-    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 09 접근제어.md",
-    "sshd.md",
     "로그/로그 명령어.md",
-    "계정/사용자 정보 관련 명령어.md",
-    "문제/제1802회 리눅스마스터 1급 2차 기출문제/__제1802회 리눅스마스터 1급 2차 기출문제__.md",
-    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 08 last.md",
-    "__교재인덱싱__/Linux Tips.md",
-    "__교재인덱싱__/암기필요.md",
-    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 07 log, last.md",
     "__attatched_files__/Pasted image 20231017174152.png",
-    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 06 디스크관련정보확인.md",
     "__attatched_files__/Pasted image 20231017173118.png",
-    "파일시스템/blkid.md",
-    "파일시스템/dd.md",
-    "파일시스템/blockdev.md",
-    "파일시스템/rsync.md",
-    "파일시스템/파일시스템 생성의 개요.md",
-    "파일시스템/디스크쿼터.md",
-    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 05 make.md",
     "Untitled",
     "__attatched_files__/Pasted image 20231016213841.png",
     "__attatched_files__/Pasted image 20231016212007.png",
     "__attatched_files__/Pasted image 20231016211954.png",
     "__attatched_files__/Pasted image 20231016211952.png",
-    "__attatched_files__/Pasted image 20231016211931.png",
-    "__attatched_files__/Pasted image 20231016211925.png",
-    "__attatched_files__/Pasted image 20231016211905.png",
-    "__attatched_files__/Pasted image 20231016211802.png",
     "문제/제1802회 리눅스마스터 1급 2차 기출문제",
     "도메인서비스",
     "파일관련서비스",

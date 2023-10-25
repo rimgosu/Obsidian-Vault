@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "6401c1d993f8ef50",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a71e620a6a206f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ca18cb431375ec9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b56b779a0e96c8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "추천시스템 공부.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d03326c84853fd5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0ea0d20332a29be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2866aeca9f0bb42a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0cf8285287fd6ff2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56ebeb9548d3c806",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1fcc1aaaa957b0a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a43bf96020ee16f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05f44fefbb1f865e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "추천시스템 공부.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8556b1d776f71637",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "추천시스템 공부.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2cc031fd9f4b93c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9b622165579b9442",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "추천시스템 공부.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3b56b779a0e96c8b",
+  "lastOpenFiles": [
+    "Pasted image 20231025141025.png",
+    "추천시스템 공부.md",
+    "Pasted image 20231024172640.png",
+    "Pasted image 20231024172651.png",
+    "Pasted image 20231024173710.png",
+    "카산드라 공부.md"
+  ]
+}
