@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "이성추천프로젝트/이성추천 원본TXT.md",
-                "mode": "preview",
+                "file": "이성추천프로젝트/화면설계도.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9949cd0ec9d5e759",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "이성추천프로젝트/기획서.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " - Tinder는 무료로 사용할 수 있지만 일부 고급 기능은 유료로 제공되므로 사용자가 원하는 기능을 이용하려면 추가 비용이 발생.  - 전 세계적으로 이용하다보니 위치기반으로 하더라도 원하는 이상형인 사람을 찾는 시간이 오래걸림.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +78,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "aa5189d71198f876",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "이성추천프로젝트/이성추천 원본TXT.md",
+                "file": "이성추천프로젝트/기획서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "이성추천프로젝트/이성추천 원본TXT.md",
+                "file": "이성추천프로젝트/기획서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "이성추천프로젝트/이성추천 원본TXT.md"
+                "file": "이성추천프로젝트/기획서.md"
               }
             }
           }
@@ -146,11 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1635b8e4a1253cdf",
+  "active": "9949cd0ec9d5e759",
   "lastOpenFiles": [
-    "이성추천프로젝트/이성추천 원본PNG.md",
-    "Untitled.md",
+    "이성추천프로젝트/화면설계도.md",
+    "이성추천프로젝트/기획서.md",
     "이성추천프로젝트/이성추천 원본TXT.md",
+    "이성추천프로젝트/이성추천 원본PNG.md",
     "attached_files/KakaoTalk_20231005_173819717.png",
     "attached_files/KakaoTalk_20231005_173811572.png",
     "attached_files/KakaoTalk_20231005_173802895.png",

@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4518bd5f07d0d7b7",
+        "id": "e8bbe750a328130b",
         "type": "tabs",
         "children": [
           {
-            "id": "f22b986640c53873",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "__교재인덱싱__/교재 인덱싱.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "b77c3fef01eb3acf",
+            "id": "3bced697732428c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "231024.md",
+                "file": "문제/제1801회 리눅스마스터 1급 2차 기출문제/14번.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,20 +21,22 @@
             }
           },
           {
-            "id": "391cbbd4b7e1172b",
+            "id": "5e76e44efc874556",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "231025.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "named",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -115,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "231025.md",
+                "file": "Untitled 1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "231025.md",
+                "file": "Untitled 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "231025.md"
+                "file": "Untitled 1.canvas"
               }
             }
           }
@@ -176,15 +164,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "391cbbd4b7e1172b",
+  "active": "5e76e44efc874556",
   "lastOpenFiles": [
-    "__교재인덱싱__/교재 인덱싱.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/14번.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/제1801회 리눅스마스터 1급 2차 기출문제.md",
     "231024.md",
+    "도메인서비스/named.conf.md",
+    "문제/제1802회 리눅스마스터 1급 2차 기출문제/__제1802회 리눅스마스터 1급 2차 기출문제__.md",
     "231025.md",
+    "231026.md",
+    "__attatched_files__/Pasted image 20231026204741.png",
+    "__attatched_files__/Pasted image 20231026204030.png",
+    "__교재인덱싱__/교재 인덱싱.md",
+    "__attatched_files__/Pasted image 20231026122646.png",
+    "파일관련서비스/삼바(SAMBA).md",
+    "__교재인덱싱__/암기필요.md",
+    "문제/제1801회 리눅스마스터 1급 2차 기출문제/13번.md",
+    "__attatched_files__/Pasted image 20231025215315.png",
+    "__attatched_files__/Pasted image 20231025212545.png",
+    "__attatched_files__/Pasted image 20231025204349.png",
+    "__attatched_files__/Pasted image 20231025200524.png",
     "__attatched_files__/Pasted image 20231025133907.png",
     "__attatched_files__/Pasted image 20231025133444.png",
     "__attatched_files__/Pasted image 20231024211816.png",
-    "__attatched_files__/Pasted image 20231024211742.png",
     "모듈 의존성.md",
     "1802 05 make.md",
     "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 09 접근제어.md",
@@ -195,26 +199,12 @@
     "sysctl/sysctl.md",
     "문제/제1801회 리눅스마스터 1급 2차 기출문제/15번.md",
     "iptables.md",
-    "문제/제1802회 리눅스마스터 1급 2차 기출문제/__제1802회 리눅스마스터 1급 2차 기출문제__.md",
     "로그/rsyslog.md",
     "문제/제1801회 리눅스마스터 1급 2차 기출문제/07번.md",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제/제1801회 리눅스마스터 1급 2차 기출문제.md",
     "문제/제1801회 리눅스마스터 1급 2차 기출문제/01번.md",
     "Apache/httpd.md",
-    "Apache/httpd.conf.md",
     "Apache/Untitled",
-    "Apache/Apache 실행파일목록.md",
-    "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 11 apache.md",
-    "__교재인덱싱__/Default Settings.md",
-    "cpio.md",
-    "로그/로그 명령어.md",
-    "__attatched_files__/Pasted image 20231017174152.png",
-    "__attatched_files__/Pasted image 20231017173118.png",
     "Untitled",
-    "__attatched_files__/Pasted image 20231016213841.png",
-    "__attatched_files__/Pasted image 20231016212007.png",
-    "__attatched_files__/Pasted image 20231016211954.png",
-    "__attatched_files__/Pasted image 20231016211952.png",
     "문제/제1802회 리눅스마스터 1급 2차 기출문제",
     "도메인서비스",
     "파일관련서비스",
@@ -222,7 +212,6 @@
     "__교재인덱싱__",
     "메일",
     "문제/제1801회 리눅스마스터 1급 2차 기출문제",
-    "sysctl",
-    "Untitled.canvas"
+    "sysctl"
   ]
 }
