@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cf7024d0fd0c4dda",
+        "id": "2033f77765678a8f",
         "type": "tabs",
         "children": [
           {
-            "id": "1635b8e4a1253cdf",
+            "id": "b6e1194324a0aa3b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "이성추천프로젝트/화면설계도.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9949cd0ec9d5e759",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "이성추천프로젝트/기획서.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " - Tinder는 무료로 사용할 수 있지만 일부 고급 기능은 유료로 제공되므로 사용자가 원하는 기능을 이용하려면 추가 비용이 발생.  - 전 세계적으로 이용하다보니 위치기반으로 하더라도 원하는 이상형인 사람을 찾는 시간이 오래걸림.",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "이성추천프로젝트/기획서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "이성추천프로젝트/기획서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "이성추천프로젝트/기획서.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,9 +139,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9949cd0ec9d5e759",
+  "active": "b6e1194324a0aa3b",
   "lastOpenFiles": [
     "이성추천프로젝트/화면설계도.md",
+    "Untitled.canvas",
     "이성추천프로젝트/기획서.md",
     "이성추천프로젝트/이성추천 원본TXT.md",
     "이성추천프로젝트/이성추천 원본PNG.md",

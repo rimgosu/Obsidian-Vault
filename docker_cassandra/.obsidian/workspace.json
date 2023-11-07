@@ -4,24 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "0a71e620a6a206f8",
+        "id": "4aef26194a3cc6dd",
         "type": "tabs",
         "children": [
           {
-            "id": "6ca18cb431375ec9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3b56b779a0e96c8b",
+            "id": "3e9cec67c80f5944",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "추천시스템 공부.md",
+                "file": "cassandra cycling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48343b21e58a9e8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "frozen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42a7af7176afa22f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cassandra cycling.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "추천시스템 공부.md",
+                "file": "frozen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "추천시스템 공부.md",
+                "file": "frozen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "추천시스템 공부.md"
+                "file": "frozen.md"
               }
             }
           }
@@ -155,8 +171,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b56b779a0e96c8b",
+  "active": "48343b21e58a9e8b",
   "lastOpenFiles": [
+    "cassandra cycling.md",
+    "cassandra keyspace.md",
+    "추천시스템 공부.md",
+    "카산드라 회원가입.md",
+    "카산드라 공부.md",
+    "frozen.md",
     "Pasted image 20231025172613.png",
     "Pasted image 20231025172545.png",
     "Pasted image 20231025171602.png",
@@ -165,10 +187,7 @@
     "Pasted image 20231025165013.png",
     "Pasted image 20231025164721.png",
     "Pasted image 20231025141025.png",
-    "추천시스템 공부.md",
     "Pasted image 20231024172640.png",
-    "Pasted image 20231024172651.png",
-    "Pasted image 20231024173710.png",
-    "카산드라 공부.md"
+    "Pasted image 20231024172651.png"
   ]
 }
