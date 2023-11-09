@@ -14,8 +14,22 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "713fd8e3c94750c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "채점.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "채점.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "채점.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "채점.md"
+              }
             }
           }
         ]
@@ -138,8 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e59166e57b0656d",
+  "active": "713fd8e3c94750c6",
   "lastOpenFiles": [
+    "채점.md",
     "Apache/httpd.conf.md",
     "2101회 기출문제 풀이.md",
     "제1702회 리눅스마스터 1급 2차 기출문제.md",
