@@ -14,8 +14,33 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "f515c55a6a97e997",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai포워더/ai포워더 hwp to txt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8816f7409bdfa118",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai포워더/AI포워더 기대효과.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ai포워더/AI포워더 기대효과.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ai포워더/AI포워더 기대효과.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ai포워더/AI포워더 기대효과.md"
+              }
             }
           }
         ]
@@ -139,8 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6e1194324a0aa3b",
+  "active": "8816f7409bdfa118",
   "lastOpenFiles": [
+    "ai포워더/ai포워더 hwp to txt.md",
+    "ai포워더/AI포워더 기대효과.md",
+    "ai포워더",
     "이성추천프로젝트/화면설계도.md",
     "Untitled.canvas",
     "이성추천프로젝트/기획서.md",

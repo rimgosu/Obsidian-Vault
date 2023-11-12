@@ -8,28 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e59166e57b0656d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "713fd8e3c94750c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "채점.md",
+                "file": "채점2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "채점.md",
+                "file": "채점2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "채점.md",
+                "file": "채점2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "채점.md"
+                "file": "채점2.md"
               }
             }
           }
@@ -159,6 +150,7 @@
   "active": "713fd8e3c94750c6",
   "lastOpenFiles": [
     "채점.md",
+    "채점2.md",
     "Apache/httpd.conf.md",
     "2101회 기출문제 풀이.md",
     "제1702회 리눅스마스터 1급 2차 기출문제.md",
@@ -195,7 +187,6 @@
     "문제/제1802회 리눅스마스터 1급 2차 기출문제/1802 10 cpio.md",
     "문제/제1801회 리눅스마스터 1급 2차 기출문제/09번.md",
     "sysctl/sysctl.md",
-    "문제/제1801회 리눅스마스터 1급 2차 기출문제/15번.md",
     "Apache/Untitled",
     "Untitled",
     "문제/제1802회 리눅스마스터 1급 2차 기출문제",
