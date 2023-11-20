@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3e7b4711dcb22143",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aws-s3 gpt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "showChatRoom.jsp.md",
+                "file": "aws-s3 gpt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "showChatRoom.jsp.md",
+                "file": "aws-s3 gpt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "showChatRoom.jsp.md"
+                "file": "aws-s3 gpt.md"
               }
             }
           }
@@ -146,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3f80dcd36d0dc1f",
+  "active": "3e7b4711dcb22143",
   "lastOpenFiles": [
+    "showChatRoom.jsp.md",
+    "aws-s3 gpt.md",
     "attached_files/Pasted image 20231120191051.png",
     "Untitled.canvas",
-    "showChatRoom.jsp.md",
     "웹소켓 연결 매커니즘.md",
     "aa.md",
     "li vs li.md",
@@ -178,7 +192,6 @@
     "비속어프로젝트",
     "attached_files/KakaoTalk_20231013_095409697.png",
     "attached_files/KakaoTalk_20231013_095359807.png",
-    "attached_files/KakaoTalk_20231013_095350545.png",
     "attached_files"
   ]
 }

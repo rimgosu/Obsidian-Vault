@@ -45,3 +45,20 @@ chattingListHtml += `
 SELECT chat_uuid, room_uuid, chat_chatter, chatted_at, chat_content, chat_emoticon, read_status FROM member.chatting order by room_uuid ALLOW FILTERING;
 ```
 ![[Pasted image 20231120191051.png]]
+
+
+```
+chattingListHtml += `
+ <li class="d-flex justify-content-between mb-4">
+	 <img src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/avatar-6.webp" alt="avatar" class="rounded-circle d-flex align-self-start me-3 shadow-1-strong" width="60">
+	 <div class="card">
+		 <div class="card-header d-flex justify-content-between p-3">
+			 <p class="fw-bold mb-0">\${chat.chat_chatter}</p>
+			 <p class="text-muted small mb-0"><i class="far fa-clock"></i>\${new Date(chat.chatted_at).toLocaleString()}</p>
+		 </div>
+		 <div class="card-body">
+			 <p class="mb-0">\${chat.chat_content}</p>
+		 </div>
+	 </div>
+ </li>`;
+```
