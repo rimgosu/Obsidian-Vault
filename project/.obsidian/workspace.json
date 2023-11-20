@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2033f77765678a8f",
+        "id": "b25980daaea397bb",
         "type": "tabs",
         "children": [
           {
-            "id": "b6e1194324a0aa3b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f515c55a6a97e997",
+            "id": "f3f80dcd36d0dc1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ai포워더/ai포워더 hwp to txt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8816f7409bdfa118",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ai포워더/AI포워더 기대효과.md",
+                "file": "showChatRoom.jsp.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ai포워더/AI포워더 기대효과.md",
+                "file": "showChatRoom.jsp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ai포워더/AI포워더 기대효과.md",
+                "file": "showChatRoom.jsp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ai포워더/AI포워더 기대효과.md"
+                "file": "showChatRoom.jsp.md"
               }
             }
           }
@@ -167,13 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8816f7409bdfa118",
+  "active": "f3f80dcd36d0dc1f",
   "lastOpenFiles": [
+    "attached_files/Pasted image 20231120191051.png",
+    "Untitled.canvas",
+    "showChatRoom.jsp.md",
+    "웹소켓 연결 매커니즘.md",
+    "aa.md",
+    "li vs li.md",
+    "채팅 흐름 잡기.md",
+    "Untitled",
     "ai포워더/ai포워더 hwp to txt.md",
+    "채팅 이해.md",
+    "attached_files/Pasted image 20231113172834.png",
+    "attached_files/KakaoTalk_20231013_095421828.png",
     "ai포워더/AI포워더 기대효과.md",
     "ai포워더",
     "이성추천프로젝트/화면설계도.md",
-    "Untitled.canvas",
     "이성추천프로젝트/기획서.md",
     "이성추천프로젝트/이성추천 원본TXT.md",
     "이성추천프로젝트/이성추천 원본PNG.md",
@@ -187,11 +176,9 @@
     "이성추천프로젝트",
     "비속어프로젝트/비속어 프로젝트3.md",
     "비속어프로젝트",
-    "attached_files/KakaoTalk_20231013_095421828.png",
     "attached_files/KakaoTalk_20231013_095409697.png",
     "attached_files/KakaoTalk_20231013_095359807.png",
     "attached_files/KakaoTalk_20231013_095350545.png",
-    "attached_files/KakaoTalk_20231013_095340259.png",
     "attached_files"
   ]
 }
