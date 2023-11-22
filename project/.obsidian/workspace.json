@@ -20,19 +20,55 @@
             }
           },
           {
-            "id": "3e7b4711dcb22143",
+            "id": "8b2f756c79d1891e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aws-s3 gpt.md",
+                "file": "채팅 리팩토링.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13f620d18e5177f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "채팅 값 확인.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00cab46be115b13f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "988f322abf57da79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "현재 위치 가지고오기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aws-s3 gpt.md",
+                "file": "현재 위치 가지고오기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aws-s3 gpt.md",
+                "file": "현재 위치 가지고오기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aws-s3 gpt.md"
+                "file": "현재 위치 가지고오기.md"
               }
             }
           }
@@ -159,8 +195,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e7b4711dcb22143",
+  "active": "988f322abf57da79",
   "lastOpenFiles": [
+    "Untitled.md",
+    "현재 위치 가지고오기.md",
+    "attached_files/Pasted image 20231122155943.jpg",
+    "채팅 값 확인.md",
+    "채팅 리팩토링.md",
     "showChatRoom.jsp.md",
     "aws-s3 gpt.md",
     "attached_files/Pasted image 20231120191051.png",
@@ -191,7 +232,6 @@
     "비속어프로젝트/비속어 프로젝트3.md",
     "비속어프로젝트",
     "attached_files/KakaoTalk_20231013_095409697.png",
-    "attached_files/KakaoTalk_20231013_095359807.png",
     "attached_files"
   ]
 }

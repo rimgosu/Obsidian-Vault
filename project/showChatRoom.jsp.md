@@ -62,3 +62,24 @@ chattingListHtml += `
 	 </div>
  </li>`;
 ```
+
+
+
+```
+update member.info
+   set photo = ?
+ where nickname = ? AND mbti = ?
+```
+
+## 1. loader = 커넥트하고 인자로받음
+## 2. ( ).class (): 자기가 db 연결하고싶은 엔티티
+## 3. updatevalue : {String : Object} => HashMap<String, Object>();
+- "photo", photo = {1:"1.png", 2:"2.png"}
+## 4. whereUpdate : {String : Object}
+- "nickname", nickname = "aaa"
+- "mbti", mbti = "istp"
+
+### cassandra -> java
+1. uuid : UUID.randomUUID()
+2. 다른 uuid 받고싶을 때 UUID.FROMSTRING("5f57d331-600c-4920-b974-bf7b54ac8803")
+3. timestamp : Instant.now();
