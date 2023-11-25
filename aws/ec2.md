@@ -20,11 +20,11 @@ ssh -i C:/keys/ec2/amazon-linux-key.pem ec2-user@ec2-54-180-116-156.ap-northeast
 ## ec2에 파일 업로드
 
 ```
-scp -i .\amazon-linux-key.pem "C:\WS\project8\demo\target\demo-0.0.3-SNAPSHOT.jar" ec2-user@ec2-54-180-93-113.ap-northeast-2.compute.amazonaws.com:/home/ec2-user/
+scp -i .\amazon-linux-key.pem "C:\WS\project8\demo\target\demo-0.0.11-SNAPSHOT.war" ec2-user@ec2-54-180-93-113.ap-northeast-2.compute.amazonaws.com:/home/ec2-user/
 ```
 
 ```
-scp -i .\amazon-linux-key.pem -r "c:/keys" ec2-user@ec2-43-200-254-135.ap-northeast-2.compute.amazonaws.com:/home/ec2-user/
+scp -i .\amazon-linux-key.pem -r "c:/keys" ec2-user@ec2-54-180-93-113.ap-northeast-2.compute.amazonaws.com:/home/ec2-user/
 ```
 
 ## spring 백그라운드에서 실행
@@ -38,4 +38,21 @@ nohup java -jar practice-0.0.1-SNAPSHOT.war &
 
 ```
 http://3.34.134.84:8081
+```
+
+
+
+
+
+
+
+
+
+---
+
+## IMDSv2
+
+```
+TOKEN=`curl -X PUT "http://169.254.169.254/latest/api/token" -H "X-aws-ec2-metadata-token-ttl-seconds: 21600"` \
+&& curl -H "X-aws-ec2-metadata-token: $TOKEN" -v http://169.254.169.254/latest/meta-data/
 ```
