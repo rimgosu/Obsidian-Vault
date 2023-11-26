@@ -11,11 +11,9 @@
             "id": "5dc609bd9ed5e9fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "빅데이터분석기사 개요.md",
-                "mode": "source",
-                "source": false
+                "file": "jupyter_notebooks/강의자료/메타코드M_빅분기실기_2유형_분류분석(2) [4강].pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "빅데이터분석기사 개요.md",
+                "file": "jupyter_notebooks/강의자료/메타코드M_빅분기실기_2유형_분류분석(2) [4강].pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "빅데이터분석기사 개요.md",
+                "file": "jupyter_notebooks/강의자료/메타코드M_빅분기실기_2유형_분류분석(2) [4강].pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "빅데이터분석기사 개요.md"
+                "file": "jupyter_notebooks/강의자료/메타코드M_빅분기실기_2유형_분류분석(2) [4강].pdf"
               }
             }
           }
@@ -148,8 +146,18 @@
   },
   "active": "5dc609bd9ed5e9fe",
   "lastOpenFiles": [
-    "attatched_files/Pasted image 20231125150856.png",
-    "attatched_files",
-    "빅데이터분석기사 개요.md"
+    "jupyter_notebooks/2유형.ipynb",
+    "jupyter_notebooks/Untitled.ipynb",
+    "jupyter_notebooks/강의자료/메타코드M_빅분기실기_2유형_문제풀이 [3강].pdf",
+    "jupyter_notebooks/강의자료/메타코드M_빅분기실기_2유형_분류분석(2) [4강].pdf",
+    "jupyter_notebooks/강의자료/메타코드M_빅분기실기_1유형_문제풀이 [2강].pdf",
+    "빅데이터분석기사 개요.md",
+    "jupyter_notebooks/강의자료/메타코드M_빅분기실기_2유형_회귀분석(2) [4강].pdf",
+    "jupyter_notebooks/강의자료/메타코드M_빅분기실기_2유형_회귀분석(1) [4강].pdf",
+    "jupyter_notebooks/강의자료/메타코드M_빅분기실기_2유형_분류분석(3)_[4강].pdf",
+    "jupyter_notebooks/강의자료/메타코드M_빅분기실기_1유형_데이터다루기 [1강].pdf",
+    "jupyter_notebooks/강의자료/메타코드M_빅분기실기_3유형_1_모평균 검정(모집단 1개)_[5강].pdf",
+    "jupyter_notebooks/강의자료/메타코드M_빅분기실기_3유형_2_모평균 검정(모집단 2개)_[5강].pdf",
+    "attatched_files/Pasted image 20231125150856.png"
   ]
 }
