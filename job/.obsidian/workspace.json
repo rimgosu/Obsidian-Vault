@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a89d94e8dbe553a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "기업 지원 리스트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "스마일게이트/사진모음.md",
+                "file": "기업 지원 리스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "스마일게이트/사진모음.md",
+                "file": "기업 지원 리스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "스마일게이트/사진모음.md"
+                "file": "기업 지원 리스트.md"
               }
             }
           }
@@ -146,16 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "347c682b4ff6f972",
+  "active": "a89d94e8dbe553a2",
   "lastOpenFiles": [
+    "스마일게이트/사진모음.md",
+    "기업 지원 리스트.md",
     "_attached files_/Pasted image 20231107170109.png",
     "_attached files_/스크린샷 2023-11-07 165413.png",
     "_attached files_/스크린샷 2023-11-07 165404.png",
-    "스마일게이트/사진모음.md",
     "_attached files_/스크린샷 2023-11-07 165357.png",
     "Untitled 1.md",
     "_attached files_",
-    "Untitled.md",
     "sk fly ai/대외활동.md",
     "Pasted image 20231107165941.png",
     "sk fly ai/향후계획.md",

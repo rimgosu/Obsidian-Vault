@@ -13,11 +13,22 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "jupyter_notebooks/강의자료/메타코드M_빅분기실기_2유형_분류분석(2) [4강].pdf"
+                "file": "jupyter_notebooks/강의자료/메타코드M_빅분기실기_3유형_1_모평균 검정(모집단 1개)_[5강].pdf"
+              }
+            }
+          },
+          {
+            "id": "c62773378854af48",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "jupyter_notebooks/강의자료/메타코드M_빅분기실기_3유형_4_카이제곱검정_[5강].pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jupyter_notebooks/강의자료/메타코드M_빅분기실기_2유형_분류분석(2) [4강].pdf",
+                "file": "jupyter_notebooks/강의자료/메타코드M_빅분기실기_3유형_4_카이제곱검정_[5강].pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "jupyter_notebooks/강의자료/메타코드M_빅분기실기_2유형_분류분석(2) [4강].pdf",
+                "file": "jupyter_notebooks/강의자료/메타코드M_빅분기실기_3유형_4_카이제곱검정_[5강].pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jupyter_notebooks/강의자료/메타코드M_빅분기실기_2유형_분류분석(2) [4강].pdf"
+                "file": "jupyter_notebooks/강의자료/메타코드M_빅분기실기_3유형_4_카이제곱검정_[5강].pdf"
               }
             }
           }
@@ -144,20 +155,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5dc609bd9ed5e9fe",
+  "active": "c62773378854af48",
   "lastOpenFiles": [
-    "jupyter_notebooks/2유형.ipynb",
-    "jupyter_notebooks/Untitled.ipynb",
-    "jupyter_notebooks/강의자료/메타코드M_빅분기실기_2유형_문제풀이 [3강].pdf",
-    "jupyter_notebooks/강의자료/메타코드M_빅분기실기_2유형_분류분석(2) [4강].pdf",
-    "jupyter_notebooks/강의자료/메타코드M_빅분기실기_1유형_문제풀이 [2강].pdf",
-    "빅데이터분석기사 개요.md",
-    "jupyter_notebooks/강의자료/메타코드M_빅분기실기_2유형_회귀분석(2) [4강].pdf",
-    "jupyter_notebooks/강의자료/메타코드M_빅분기실기_2유형_회귀분석(1) [4강].pdf",
-    "jupyter_notebooks/강의자료/메타코드M_빅분기실기_2유형_분류분석(3)_[4강].pdf",
-    "jupyter_notebooks/강의자료/메타코드M_빅분기실기_1유형_데이터다루기 [1강].pdf",
-    "jupyter_notebooks/강의자료/메타코드M_빅분기실기_3유형_1_모평균 검정(모집단 1개)_[5강].pdf",
+    "jupyter_notebooks/강의자료/메타코드M_빅분기실기_3유형_3_모평균 검정(모집단 3개 이상)_[5강].pdf",
     "jupyter_notebooks/강의자료/메타코드M_빅분기실기_3유형_2_모평균 검정(모집단 2개)_[5강].pdf",
+    "jupyter_notebooks/강의자료/메타코드M_빅분기실기_3유형_1_모평균 검정(모집단 1개)_[5강].pdf",
+    "jupyter_notebooks/강의자료/메타코드M_빅분기실기_2유형_회귀분석(2) [4강].pdf",
+    "jupyter_notebooks/강의자료/메타코드M_빅분기실기_3유형_4_카이제곱검정_[5강].pdf",
+    "jupyter_notebooks/강의자료/메타코드M_빅분기실기_3유형_5_다중회귀분석 및 상관분석_[5강].pdf",
+    "jupyter_notebooks/강의자료/메타코드M_빅분기실기_3유형_6_로지스틱 회귀분석_[5강].pdf",
+    "Untitled.md",
+    "jupyter_notebooks/강의자료/메타코드M_빅분기실기_2유형_분류분석(3)_[4강].pdf",
+    "jupyter_notebooks/강의자료/메타코드M_빅분기실기_2유형_분류분석(2) [4강].pdf",
+    "jupyter_notebooks/강의자료/메타코드M_빅분기실기_2유형_회귀분석(1) [4강].pdf",
+    "jupyter_notebooks/풀이.csv",
+    "빅데이터분석기사 개요.md",
     "attatched_files/Pasted image 20231125150856.png"
   ]
 }

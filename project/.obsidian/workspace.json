@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "showChatRoom.jsp.md",
+                "file": "wbs1130.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,9 +66,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6612b8ec9373de22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wbs1130.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "현재 위치 가지고오기.md",
+                "file": "wbs1130.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "현재 위치 가지고오기.md",
+                "file": "wbs1130.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "현재 위치 가지고오기.md"
+                "file": "wbs1130.md"
               }
             }
           }
@@ -195,14 +206,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "988f322abf57da79",
+  "active": "f3f80dcd36d0dc1f",
   "lastOpenFiles": [
-    "Untitled.md",
-    "현재 위치 가지고오기.md",
-    "attached_files/Pasted image 20231122155943.jpg",
     "채팅 값 확인.md",
-    "채팅 리팩토링.md",
+    "wbs1130.md",
     "showChatRoom.jsp.md",
+    "현재 위치 가지고오기.md",
+    "Untitled.md",
+    "attached_files/Pasted image 20231122155943.jpg",
+    "채팅 리팩토링.md",
     "aws-s3 gpt.md",
     "attached_files/Pasted image 20231120191051.png",
     "Untitled.canvas",
