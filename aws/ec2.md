@@ -20,7 +20,7 @@ ssh -i C:/keys/ec2/amazon-linux-key.pem ec2-user@ec2-54-180-93-113.ap-northeast-
 ## ec2에 파일 
 
 ```
-scp -i .\amazon-linux-key.pem "C:\WS\project9\simkoong\target\demo-0.0.19-SNAPSHOT.war" ec2-user@ec2-54-180-93-113.ap-northeast-2.compute.amazonaws.com:/home/ec2-user/
+scp -i .\amazon-linux-key.pem "C:\WS\project9\simkoong\target\demo-0.0.20-SNAPSHOT.war" ec2-user@ec2-54-180-93-113.ap-northeast-2.compute.amazonaws.com:/home/ec2-user/
 ```
 
 ```
