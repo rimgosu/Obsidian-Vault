@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "28436661214709af",
+    "type": "split",
+    "children": [
+      {
+        "id": "563b4f632df4b405",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb38dcfd51f23165",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "695826756d34a5e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e58a6c06d3fa6bbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3902886aaef5b6e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e328d1b978bb9815",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8946fc9637150c04",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a5cc6be97ba48b09",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6da47d00fe7fba1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6cca5a28015f514",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "982b2ed2a8dbd3c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b6045eea5e408bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c04858858c4dbf56",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a3902886aaef5b6e",
+  "lastOpenFiles": [
+    "jpashop-v20210728/src/main/java/jpabook/jpashop/domain/item/Movie.java",
+    "jpashop-v20210728/src/main/java/jpabook/jpashop/domain/item/Item.java",
+    "jpashop-v20210728/src/main/java/jpabook/jpashop/domain/item/Book.java",
+    "jpashop-v20210728/src/main/java/jpabook/jpashop/domain/item/Album.java",
+    "jpashop-v20210728/src/main/java/jpabook/jpashop/service/OrderService.java",
+    "jpashop-v20210728/src/main/java/jpabook/jpashop/service/MemberService.java",
+    "jpashop-v20210728/src/main/java/jpabook/jpashop/service/ItemService.java",
+    "jpashop-v20210728/src/main/java/jpabook/jpashop/repository/OrderSearch.java",
+    "jpashop-v20210728/src/main/java/jpabook/jpashop/repository/OrderRepository.java",
+    "jpashop-v20210728/src/main/java/jpabook/jpashop/repository/MemberRepository.java",
+    "jpashop-v20210728/src/main/java/jpabook/jpashop/repository/ItemRepository.java",
+    "jpashop-v20210728/HELP.md"
+  ]
+}
