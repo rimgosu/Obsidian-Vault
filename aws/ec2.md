@@ -20,7 +20,7 @@ ssh -i C:/keys/ec2/amazon-linux-key.pem ec2-user@ec2-54-180-93-113.ap-northeast-
 ## ec2에 파일 
 
 ```
-scp -i .\amazon-linux-key.pem "C:\WS\project9\simkoong\target\demo-0.0.20-SNAPSHOT.war" ec2-user@ec2-54-180-93-113.ap-northeast-2.compute.amazonaws.com:/home/ec2-user/
+scp -i .\amazon-linux-key.pem "C:\Users\newny\Documents\카카오톡 받은 파일\demo\demo\target\demo-0.0.21-SNAPSHOT.war" ec2-user@ec2-15-164-48-247.ap-northeast-2.compute.amazonaws.com:/home/ec2-user
 ```
 
 ```
@@ -43,9 +43,19 @@ http://3.34.134.84:8081
 
 
 
+## Large
 
+```
+"C:\Users\newny\Documents\카카오톡 받은 파일\demo\demo\target\demo-0.0.21-SNAPSHOT.war"
+```
 
+```
+scp -i .\amazon-linux-key.pem "C:\Users\newny\Documents\카카오톡 받은 파일\최종본\demo\target\demo-0.0.22-SNAPSHOT.war" ec2-user@ec2-15-164-48-247.ap-northeast-2.compute.amazonaws.com:/home/ec2-user/
+```
 
+```
+scp -i .\amazon-linux-key.pem -r "c:/keys" ec2-user@ec2-13-209-81-245.ap-northeast-2.compute.amazonaws.com:/home/ec2-user/
+```
 
 
 ---

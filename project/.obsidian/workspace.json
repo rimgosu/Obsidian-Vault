@@ -4,79 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b25980daaea397bb",
+        "id": "032ee885497ce7cb",
         "type": "tabs",
         "children": [
           {
-            "id": "f3f80dcd36d0dc1f",
+            "id": "7e913ae2e8e9d360",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wbs1130.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b2f756c79d1891e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "채팅 리팩토링.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13f620d18e5177f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "채팅 값 확인.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00cab46be115b13f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "988f322abf57da79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "현재 위치 가지고오기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6612b8ec9373de22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wbs1130.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -145,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wbs1130.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wbs1130.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "wbs1130.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -206,15 +138,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3f80dcd36d0dc1f",
+  "active": "7e913ae2e8e9d360",
   "lastOpenFiles": [
-    "채팅 값 확인.md",
     "wbs1130.md",
-    "showChatRoom.jsp.md",
     "현재 위치 가지고오기.md",
     "Untitled.md",
-    "attached_files/Pasted image 20231122155943.jpg",
+    "채팅 값 확인.md",
     "채팅 리팩토링.md",
+    "showChatRoom.jsp.md",
+    "attached_files/Pasted image 20231122155943.jpg",
     "aws-s3 gpt.md",
     "attached_files/Pasted image 20231120191051.png",
     "Untitled.canvas",

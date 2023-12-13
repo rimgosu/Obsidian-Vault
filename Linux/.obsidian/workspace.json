@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "채점2.md",
+                "file": "문제/제1802회 리눅스마스터 1급 2차 기출문제/__제1802회 리눅스마스터 1급 2차 기출문제__.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "채점2.md",
+                "file": "문제/제1802회 리눅스마스터 1급 2차 기출문제/__제1802회 리눅스마스터 1급 2차 기출문제__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "채점2.md",
+                "file": "문제/제1802회 리눅스마스터 1급 2차 기출문제/__제1802회 리눅스마스터 1급 2차 기출문제__.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "채점2.md"
+                "file": "문제/제1802회 리눅스마스터 1급 2차 기출문제/__제1802회 리눅스마스터 1급 2차 기출문제__.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "713fd8e3c94750c6",
   "lastOpenFiles": [
-    "채점.md",
     "채점2.md",
+    "채점.md",
     "Apache/httpd.conf.md",
     "2101회 기출문제 풀이.md",
     "제1702회 리눅스마스터 1급 2차 기출문제.md",
