@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "3dd7507d89b26abb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cbthub question.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "cbthub question.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "cbthub question.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "cbthub question.md"
+              }
             }
           }
         ]
@@ -138,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e913ae2e8e9d360",
+  "active": "3dd7507d89b26abb",
   "lastOpenFiles": [
+    "cbthub question.md",
     "wbs1130.md",
     "현재 위치 가지고오기.md",
     "Untitled.md",
