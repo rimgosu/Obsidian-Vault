@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/work/Untitled 4.md",
+                "file": "캐글.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/work/Untitled 4.md",
+                "file": "캐글.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work/work/Untitled 4.md",
+                "file": "캐글.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work/work/Untitled 4.md"
+                "file": "캐글.md"
               }
             }
           }
@@ -185,10 +185,10 @@
   },
   "active": "aa96faa35b383410",
   "lastOpenFiles": [
+    "DeepLearning.md",
     "Pasted image 20230919155011.png",
     "work/work/Untitled 4.md",
     "캐글.md",
-    "DeepLearning.md",
     "[sk-fly-ai]/flutter.md",
     "[sk-fly-ai]/Untitled.md",
     "jpa_study",
