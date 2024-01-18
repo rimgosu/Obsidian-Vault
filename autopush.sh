@@ -19,7 +19,7 @@ summarize_changes() {
         -H "Content-Type: application/json" \
         -H "Authorization: Bearer $api_key" \
         -d "$data" \
-        "https://api.openai.com/v1/engines/gpt-3.5-turbo/completions")
+        "https://api.openai.com/v1/engines/gpt-3.5-turbo/chat/completions")
 
     # 응답에서 텍스트 내용을 추출
     echo $(echo $response)
