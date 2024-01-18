@@ -14,15 +14,15 @@ summarize_changes() {
                     --argjson temperature 0.7 \
                     '{prompt: $prompt, max_tokens: $max_tokens, temperature: $temperature}')
 
-    # ChatGPT API를 사용하여 요청을 보내고 응답을 받음
+    # ChatGPT API를 사용하여 요청을 보내고 응답을 받음 (여기에서 모델을 업데이트)
     local response=$(curl -s -X POST \
         -H "Content-Type: application/json" \
         -H "Authorization: Bearer $api_key" \
         -d "$data" \
-        "https://api.openai.com/v1/engines/davinci-codex/completions")
+        "https://api.openai.com/v1/engines/davinci-003/completions")
 
     # 응답에서 텍스트 내용을 추출
-    echo $(echo $response)
+    echo $(echo $response | jq -r '.choices[0].text')
 }
 
 # Git에서 변경된 파일 목록을 가져옴
