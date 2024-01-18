@@ -23,7 +23,7 @@ summarize_changes() {
         "https://api.openai.com/v1/chat/completions")
 
     # 응답에서 텍스트 내용을 추출
-    echo $(echo $response | jq -r '.choices[0].text')
+    echo $(echo $response)
 }
 
 
