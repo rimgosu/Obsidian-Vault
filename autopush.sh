@@ -42,3 +42,8 @@ git commit -m "$commit_message"
 
 # 푸시
 git push origin master
+
+
+# 테스트
+echo "API Response: $response"
+
