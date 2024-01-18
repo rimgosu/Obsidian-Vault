@@ -7,12 +7,9 @@ summarize_changes() {
     local file_content=$1
     local api_key=$2
 
-    # 영어로 요약을 요청하는 프롬프트 추가
-    local prompt="Please summarize the following changes in English:\n$file_content"
-
     # jq를 사용하여 JSON 데이터 생성
     local data=$(jq -n \
-                    --arg prompt "$prompt" \
+                    --arg prompt "$file_content" \
                     --argjson max_tokens 100 \
                     --argjson temperature 0.7 \
                     '{prompt: $prompt, max_tokens: $max_tokens, temperature: $temperature}')
@@ -22,10 +19,10 @@ summarize_changes() {
         -H "Content-Type: application/json" \
         -H "Authorization: Bearer $api_key" \
         -d "$data" \
-        "https://api.openai.com/v1/engines/gpt-3.5-turbo/completions")
+        "https://api.openai.com/v1/engines/davinci-003/completions")
 
     # 응답에서 텍스트 내용을 추출
-    echo $(echo $response)
+    echo $(echo $response | jq -r '.choices[0].text')
 }
 
 # Git에서 변경된 파일 목록을 가져옴
@@ -34,7 +31,8 @@ changed_files=$(git status -s | awk '{if ($1 == "M" || $1 == "A") print $2}')
 # 변경된 파일들의 내용을 저장
 content=""
 for file in $changed_files; do
-    content+="$(cat $file)"
+    # 비ASCII 문자를 제거
+    content+="$(cat "$file" | tr -cd '\11\12\15\40-\176')"
 done
 
 # ChatGPT API 키를 환경 변수에서 가져옴
