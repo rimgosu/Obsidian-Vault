@@ -7,8 +7,12 @@ summarize_changes() {
     local file_content=$1
     local api_key=$2
 
-    # JSON 데이터 형식으로 요청 본문을 준비
-    local data="{\"prompt\": \"${file_content:0:4000}\", \"max_tokens\": 100, \"temperature\": 0.7}"
+    # jq를 사용하여 JSON 데이터 생성
+    local data=$(jq -n \
+                    --arg prompt "$file_content" \
+                    --argjson max_tokens 100 \
+                    --argjson temperature 0.7 \
+                    '{prompt: $prompt, max_tokens: $max_tokens, temperature: $temperature}')
 
     # ChatGPT API를 사용하여 요청을 보내고 응답을 받음
     local response=$(curl -s -X POST \
@@ -18,9 +22,8 @@ summarize_changes() {
         "https://api.openai.com/v1/engines/davinci-codex/completions")
 
     # 응답에서 텍스트 내용을 추출
-    echo $(echo $response)
+    echo $(echo $response | jq -r '.choices[0].text')
 }
-
 
 # Git에서 변경된 파일 목록을 가져옴
 changed_files=$(git status -s | awk '{if ($1 == "M" || $1 == "A") print $2}')
@@ -42,7 +45,3 @@ git commit -m "$commit_message"
 
 # 푸시
 git push origin master
-
-
-
-
