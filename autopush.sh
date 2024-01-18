@@ -11,7 +11,7 @@ summarize_changes() {
     local data=$(jq -n \
                     --arg prompt "$file_content" \
                     --argjson max_tokens 100 \
-                    '{model: "gpt-3.5-turbo", messages: [{"role": "system", "content": "Summarize for github commit message the following changes in English. Write within 30 characters"}, {"role": "user", "content": $prompt}], max_tokens: $max_tokens}')
+                    '{model: "gpt-3.5-turbo", messages: [{"role": "system", "content": "Summarize for github commit message the following changes in Korean. Write within 30 characters"}, {"role": "user", "content": $prompt}], max_tokens: $max_tokens}')
 
     # ChatGPT API를 사용하여 요청을 보내고 응답을 받음
     local response=$(curl -s -X POST \
