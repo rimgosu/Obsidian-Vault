@@ -9,12 +9,13 @@ summarize_changes() {
 
     # jq를 사용하여 JSON 데이터 생성
     local data=$(jq -n \
+                    --arg model "gpt-3.5-turbo" \
                     --arg prompt "$file_content" \
                     --argjson max_tokens 100 \
                     --argjson temperature 0.7 \
-                    '{prompt: $prompt, max_tokens: $max_tokens, temperature: $temperature}')
+                    '{model: $model, prompt: $prompt, max_tokens: $max_tokens, temperature: $temperature}')
 
-    # ChatGPT API를 사용하여 요청을 보내고 응답을 받음
+    # ChatGPT API를 사용하여 요청을 보내고 응답을 받음 (모델 매개변수 추가)
     local response=$(curl -s -X POST \
         -H "Content-Type: application/json" \
         -H "Authorization: Bearer $api_key" \
@@ -22,8 +23,9 @@ summarize_changes() {
         "https://api.openai.com/v1/chat/completions")
 
     # 응답에서 텍스트 내용을 추출
-    echo $(echo $response)
+    echo $(echo $response | jq -r '.choices[0].text')
 }
+
 
 # Git에서 변경된 파일 목록을 가져옴
 changed_files=$(git status -s | awk '{if ($1 == "M" || $1 == "A") print $2}')
