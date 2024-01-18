@@ -18,7 +18,7 @@ summarize_changes() {
         "https://api.openai.com/v1/engines/davinci-codex/completions")
 
     # 응답에서 텍스트 내용을 추출
-    echo $(echo $response | jq -r '.choices[0].text')
+    echo $(echo $response)
 }
 
 
@@ -44,6 +44,5 @@ git commit -m "$commit_message"
 git push origin master
 
 
-# 테스트
-echo "API Response: $response"
+
 
