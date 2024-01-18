@@ -7,15 +7,13 @@ summarize_changes() {
     local file_content=$1
     local api_key=$2
 
-    # jq를 사용하여 JSON 데이터 생성
+    # jq를 사용하여 JSON 데이터 생성 (messages 배열 추가)
     local data=$(jq -n \
-                    --arg model "gpt-3.5-turbo" \
                     --arg prompt "$file_content" \
                     --argjson max_tokens 100 \
-                    --argjson temperature 0.7 \
-                    '{model: $model, prompt: $prompt, max_tokens: $max_tokens, temperature: $temperature}')
+                    '{model: "gpt-3.5-turbo", messages: [{"role": "system", "content": "Summarize the following changes in English."}, {"role": "user", "content": $prompt}], max_tokens: $max_tokens}')
 
-    # ChatGPT API를 사용하여 요청을 보내고 응답을 받음 (모델 매개변수 추가)
+    # ChatGPT API를 사용하여 요청을 보내고 응답을 받음
     local response=$(curl -s -X POST \
         -H "Content-Type: application/json" \
         -H "Authorization: Bearer $api_key" \
@@ -23,7 +21,7 @@ summarize_changes() {
         "https://api.openai.com/v1/chat/completions")
 
     # 응답에서 텍스트 내용을 추출
-    echo $(echo $response)
+    echo $(echo $response | jq -r '.choices[0].text')
 }
 
 
