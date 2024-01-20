@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "42ee583a8a4b4783",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문제풀이 요구사항-1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "문제풀이 요구사항-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "문제풀이 요구사항-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "문제풀이 요구사항-1.md"
+              }
             }
           }
         ]
@@ -138,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3902886aaef5b6e",
+  "active": "42ee583a8a4b4783",
   "lastOpenFiles": [
+    "문제풀이 요구사항-1.md",
     "jpashop-v20210728/src/main/java/jpabook/jpashop/domain/item/Movie.java",
     "jpashop-v20210728/src/main/java/jpabook/jpashop/domain/item/Item.java",
     "jpashop-v20210728/src/main/java/jpabook/jpashop/domain/item/Book.java",
@@ -150,7 +168,6 @@
     "jpashop-v20210728/src/main/java/jpabook/jpashop/repository/OrderSearch.java",
     "jpashop-v20210728/src/main/java/jpabook/jpashop/repository/OrderRepository.java",
     "jpashop-v20210728/src/main/java/jpabook/jpashop/repository/MemberRepository.java",
-    "jpashop-v20210728/src/main/java/jpabook/jpashop/repository/ItemRepository.java",
     "jpashop-v20210728/HELP.md"
   ]
 }
