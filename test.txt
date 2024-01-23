@@ -1,1 +1,2 @@
 sync test
+hidden test
