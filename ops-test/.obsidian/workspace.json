@@ -181,14 +181,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "15. 선택적 도전 과제-1.md",
+                "file": "15. 선택적 도전 과제-1-1 탐색.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3eb18070a7a88567",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "16. 선택적 도전 과제-1-2 구현.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -254,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "15. 선택적 도전 과제-1.md",
+                "file": "16. 선택적 도전 과제-1-2 구현.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "15. 선택적 도전 과제-1.md",
+                "file": "16. 선택적 도전 과제-1-2 구현.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "15. 선택적 도전 과제-1.md"
+                "file": "16. 선택적 도전 과제-1-2 구현.md"
               }
             }
           }
@@ -315,24 +327,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e100942cb8e20f8",
+  "active": "3eb18070a7a88567",
   "lastOpenFiles": [
-    "14. 요구사항-4.md",
-    "15. 선택적 도전 과제-1.md",
-    "13. 요구사항-3 비밀번호 변경 API (2).md",
-    "12. 요구사항-2(2).md",
-    "10. 요구사항-3 비밀번호 변경 API (실패).md",
-    "09. 요구사항-2 로그인.md",
-    "11. 요구사항-1(2).md",
-    "Pasted image 20240124184058.png",
-    "08. 요구사항-1 회원가입.md",
-    "Pasted image 20240124182009.png",
-    "07. api 구현.md",
-    "06. 회원 엔티티 작성.md",
-    "05. bycrypt 작성.md",
-    "04. 인증 시스템 구현.md",
-    "03. 데이터베이스 연결.md",
+    "15. 선택적 도전 과제-1-1 탐색.md",
+    "16. 선택적 도전 과제-1-2 구현.md",
     "02. project 설정.md",
-    "01.  Docker MySQL 환경 구축.md"
+    "01.  Docker MySQL 환경 구축.md",
+    "03. 데이터베이스 연결.md",
+    "04. 인증 시스템 구현.md",
+    "05. bycrypt 작성.md",
+    "06. 회원 엔티티 작성.md",
+    "07. api 구현.md",
+    "08. 요구사항-1 회원가입.md",
+    "09. 요구사항-2 로그인.md",
+    "10. 요구사항-3 비밀번호 변경 API (실패).md",
+    "11. 요구사항-1(2).md",
+    "12. 요구사항-2(2).md",
+    "13. 요구사항-3 비밀번호 변경 API (2).md",
+    "14. 요구사항-4.md",
+    "Pasted image 20240124184058.png",
+    "Pasted image 20240124182009.png"
   ]
 }
