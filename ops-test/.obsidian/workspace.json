@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. 요구사항-3 비밀번호 변경 API.md",
+                "file": "10. 요구사항-3 비밀번호 변경 API (실패).md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11. 요구사항-1(다시설정).md",
+                "file": "11. 요구사항-1(2).md",
                 "mode": "source",
                 "source": false
               }
@@ -145,14 +145,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12. 요구사항-2(다시설정).md",
+                "file": "12. 요구사항-2(2).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "654ba936b1a04380",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13. 요구사항-3 비밀번호 변경 API (2).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2514c738c86638be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "14. 요구사항-4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -218,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12. 요구사항-2(다시설정).md",
+                "file": "14. 요구사항-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12. 요구사항-2(다시설정).md",
+                "file": "14. 요구사항-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12. 요구사항-2(다시설정).md"
+                "file": "14. 요구사항-4.md"
               }
             }
           }
@@ -279,12 +303,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff9c0cc5eaaa20ee",
+  "active": "2514c738c86638be",
   "lastOpenFiles": [
-    "11. 요구사항-1(다시설정).md",
+    "13. 요구사항-3 비밀번호 변경 API (2).md",
+    "14. 요구사항-4.md",
+    "12. 요구사항-2(2).md",
+    "10. 요구사항-3 비밀번호 변경 API (실패).md",
     "09. 요구사항-2 로그인.md",
-    "12. 요구사항-2(다시설정).md",
-    "10. 요구사항-3 비밀번호 변경 API.md",
+    "11. 요구사항-1(2).md",
     "Pasted image 20240124184058.png",
     "08. 요구사항-1 회원가입.md",
     "Pasted image 20240124182009.png",
