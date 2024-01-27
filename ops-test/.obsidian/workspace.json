@@ -337,7 +337,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "28. aws - ec2.md",
+                "file": "01.  Docker MySQL 환경 구축.md",
                 "mode": "source",
                 "source": false
               }
@@ -410,7 +410,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "28. aws - ec2.md",
+                "file": "01.  Docker MySQL 환경 구축.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -427,7 +427,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "28. aws - ec2.md",
+                "file": "01.  Docker MySQL 환경 구축.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -450,7 +450,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "28. aws - ec2.md"
+                "file": "01.  Docker MySQL 환경 구축.md"
               }
             }
           }
@@ -471,11 +471,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1fa7f28a6d3b6e76",
+  "active": "a4e53ea4a2300cf0",
   "lastOpenFiles": [
+    "28. aws - ec2.md",
+    "28. aws - ec2.pdf",
+    "01.  Docker MySQL 환경 구축.md",
+    "Pasted image 20240127203730.png",
     "Pasted image 20240127193351.png",
     "27. aws에 api 배포 - mysql.md",
-    "28. aws - ec2.md",
     "26. 요구사항 최종 확인 2.md",
     "Pasted image 20240127184853.png",
     "Pasted image 20240127184652.png",
@@ -487,13 +490,10 @@
     "Pasted image 20240127182958.png",
     "Pasted image 20240127182803.png",
     "Pasted image 20240127182652.png",
-    "Pasted image 20240127182551.png",
-    "Pasted image 20240127182351.png",
     "23. 리팩토링 - controller 로직을 service로.md",
     "15. 선택적 도전 과제-1-1 탐색.md",
     "16. 선택적 도전 과제-1-2 구현.md",
     "17. 선택적 도전 과제-1-3 인증코드생성로직.md",
-    "01.  Docker MySQL 환경 구축.md",
     "18. 선택적 도전 과제-2-1 탐색.md",
     "19. 선택적 도전 과제-2-2 구현.md",
     "20. 선택적 도전 과제-3.md",
