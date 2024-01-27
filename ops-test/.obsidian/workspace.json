@@ -313,14 +313,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26. 요구사항 최종 확인 (선택 부분).md",
+                "file": "26. 요구사항 최종 확인 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbf3ed2efa31a8c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "27. aws에 api 배포 - mysql.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fa7f28a6d3b6e76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "28. aws - ec2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 25
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -386,7 +410,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "26. 요구사항 최종 확인 (선택 부분).md",
+                "file": "28. aws - ec2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -403,7 +427,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "26. 요구사항 최종 확인 (선택 부분).md",
+                "file": "28. aws - ec2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -426,7 +450,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "26. 요구사항 최종 확인 (선택 부분).md"
+                "file": "28. aws - ec2.md"
               }
             }
           }
@@ -447,22 +471,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bee299163d6cedbe",
+  "active": "1fa7f28a6d3b6e76",
   "lastOpenFiles": [
+    "Pasted image 20240127193351.png",
+    "27. aws에 api 배포 - mysql.md",
+    "28. aws - ec2.md",
+    "26. 요구사항 최종 확인 2.md",
+    "Pasted image 20240127184853.png",
+    "Pasted image 20240127184652.png",
     "Pasted image 20240127183136.png",
     "Pasted image 20240127183132.png",
     "Pasted image 20240127183051.png",
     "25. 요구사항 최종 확인.md",
-    "26. 요구사항 최종 확인 (선택 부분).md",
     "24. 선택적 도전 과제-1-4 guard.md",
     "Pasted image 20240127182958.png",
     "Pasted image 20240127182803.png",
     "Pasted image 20240127182652.png",
     "Pasted image 20240127182551.png",
     "Pasted image 20240127182351.png",
-    "Pasted image 20240127182317.png",
-    "Pasted image 20240127182148.png",
-    "Pasted image 20240127182145.png",
     "23. 리팩토링 - controller 로직을 service로.md",
     "15. 선택적 도전 과제-1-1 탐색.md",
     "16. 선택적 도전 과제-1-2 구현.md",
@@ -482,8 +508,6 @@
     "21. 선택적 도전 과제-4.md",
     "22. 리팩토링 - signIn.md",
     "15. 선택적 도전 과제-1.md",
-    "06. 회원 엔티티 작성.md",
-    "05. bycrypt 작성.md",
-    "04. 인증 시스템 구현.md"
+    "06. 회원 엔티티 작성.md"
   ]
 }
