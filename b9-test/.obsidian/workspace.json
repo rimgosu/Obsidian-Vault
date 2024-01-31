@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a16549514acb4006",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. seed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b54396cf2a77e324",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. example query.md",
+                "file": "5. test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. example query.md",
+                "file": "5. test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. example query.md"
+                "file": "5. test.md"
               }
             }
           }
@@ -171,10 +195,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27ba697e2546d4e8",
+  "active": "b54396cf2a77e324",
   "lastOpenFiles": [
-    "2. migration.md",
+    "4. seed.md",
+    "5. test.md",
     "3. example query.md",
+    "2. migration.md",
     "1. init.md"
   ]
 }
