@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. test.md",
+                "file": "3. example query.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. test.md",
+                "file": "3. example query.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. test.md",
+                "file": "3. example query.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. test.md"
+                "file": "3. example query.md"
               }
             }
           }
@@ -197,10 +197,10 @@
   },
   "active": "b54396cf2a77e324",
   "lastOpenFiles": [
-    "3. example query.md",
     "4. seed.md",
-    "2. migration.md",
     "5. test.md",
+    "3. example query.md",
+    "2. migration.md",
     "1. init.md"
   ]
 }
