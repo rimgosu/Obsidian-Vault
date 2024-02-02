@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. docker.md",
+                "file": "2. migration.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. docker.md",
+                "file": "2. migration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. docker.md",
+                "file": "2. migration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. docker.md"
+                "file": "2. migration.md"
               }
             }
           }
@@ -210,10 +210,10 @@
   "active": "03d331b41ca65381",
   "lastOpenFiles": [
     "3. example query.md",
+    "2. migration.md",
     "6. docker.md",
     "4. seed.md",
     "5. test.md",
-    "2. migration.md",
     "1. init.md"
   ]
 }
