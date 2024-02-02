@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. readme 작성.md",
+                "file": "6. docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. readme 작성.md",
+                "file": "6. docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. readme 작성.md",
+                "file": "6. docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. readme 작성.md"
+                "file": "6. docker.md"
               }
             }
           }
@@ -221,13 +221,13 @@
   },
   "active": "3e358ea644c13210",
   "lastOpenFiles": [
-    "3. example query.md",
     "7. readme 작성.md",
-    "6. docker.md",
-    "5. test.md",
     "4. seed.md",
-    "Pasted image 20240202120332.png",
+    "2. migration.md",
+    "3. example query.md",
+    "5. test.md",
+    "6. docker.md",
     "1. init.md",
-    "2. migration.md"
+    "Pasted image 20240202120332.png"
   ]
 }
