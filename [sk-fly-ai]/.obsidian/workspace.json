@@ -138,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "288f03ebc38d9bfb",
+  "active": "48c243621e4d9c47",
   "lastOpenFiles": [
+    "ai-900/ai900.md",
+    "ai-900",
     "flutter.md"
   ]
 }
